@@ -90,7 +90,7 @@ cd storage
 
 cd downloads
 
-https://github.com/Zulkiflimok/linux02
+git clone https://github.com/Zulkiflimok/linux02
 
 cd linux02
 
