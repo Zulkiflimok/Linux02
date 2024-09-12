@@ -8,7 +8,11 @@
 🔘 Selfbot Template line py3 terbaru 2024 🔘 ⏩ Fitur Mantap ⏩ Tampilan Keren ⏩ Wroks on VPS ⏩ Wroks on TERMUX ⏩ Rekomendasi untuk anda sebelum install & run script ini, sebaiknya anda pelajari tentang Config,line Liff dan lainya.
 Karena suatu saat nanti ketika botnya sekarat, anda tidak kebingungan ditengah jalan 😄😀 bergabunglah disalahsatu komunitas bot.OK 😂 #======================#
 
-WROKS 100 %
+<img alt="Sample.jpg" src= "https://i.ibb.co/QNFxN8N/1652366614290.jpg">
+<p>
+  
+# WROKS 100 %
+
 #TEAM TERMUX BOTS #ZULKIFLI MOKOAGOW
 
 THANKS TO ALL MASTAH
